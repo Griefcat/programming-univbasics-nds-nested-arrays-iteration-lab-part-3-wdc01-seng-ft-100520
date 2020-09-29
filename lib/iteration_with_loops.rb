@@ -4,7 +4,7 @@ mixed_data = [
   ["studied", 101, 233, "Ruby"]
 ]
 
-def join_nested_strings(src)
+#def join_nested_strings(src)
 # total = ""
 # row_index = 0 
 # new_string_array = []
